@@ -1,0 +1,47 @@
+.content{
+    background-image: url(./background_landscape.jpeg);
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    padding-top: 400px;
+}
+.info{
+    font-size: 10px;
+    padding-left: 205px;
+    padding-right: 205px;
+}
+.aerobics, .cardio, .consulting, .event, .spa, .gym{
+    display: flexbox;
+    font-size: 13px;
+    padding-bottom: 0%;
+}
+.right{
+    text-align: left;
+    font-size: smaller;
+}
+.studio{
+    background-color: #333333;
+}
+.fit{
+    text-align: left;
+    color: aliceblue;
+    font-size: 14px;
+    padding-bottom: 50px;
+}
+.footer{
+    font-size: 13px;
+}
+.row1{
+    padding-top: 2%;
+    padding-left: 5%;
+}
+.row2,
+.row3,
+.row4,
+.row5,
+.row6{
+    padding-left: 5%;
+}
+.row6{
+    padding-bottom: 10%;
+}
